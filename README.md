@@ -8,3 +8,6 @@ This purpose of this project is to show how to use Maven and Jenkins together.
 Updates, 
 
 and more updates
+
+## Testing poll SCM
+Test - Build Triggers - Poll SCM.
